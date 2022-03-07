@@ -1,3 +1,5 @@
 Test text here we go
 
 Part 2: change of Git commit message editor 
+
+Part 3 change of another commit message to test if extra account is gone
