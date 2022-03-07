@@ -1,1 +1,3 @@
 Test text here we go
+
+Part 2: change of Git commit message editor 
